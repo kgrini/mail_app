@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="581246570">
+    <data-source source="LOCAL" name="Rails MailApp: development" uuid="e4e4bdf6-f3c6-41d2-98a8-69e618f80d69">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:MailApp_development</jdbc-url>
+      <user-name>dutyfree</user-name>
+      <user-password>dfdbdfdddfcfdfd8dfdedfd3</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails MailApp: test" uuid="1c306dfe-b58f-482b-ac8c-84c79b6f3ba2">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:MailApp_test</jdbc-url>
+      <user-name>dutyfree</user-name>
+      <user-password>dfdbdfdddfcfdfd8dfdedfd3</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails MailApp: production" uuid="e57e8264-e451-4b73-90b2-96a55126eee8">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:MailApp_production</jdbc-url>
+      <user-name>MailApp</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dfebdfe3dfe6dfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

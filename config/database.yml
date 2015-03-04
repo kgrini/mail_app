@@ -1,0 +1,21 @@
+
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  username: dutyfree
+  password: qwerty
+  pool: 5
+
+development:
+  <<: *default
+  database: MailApp_development
+
+test:
+  <<: *default
+  database: MailApp_test
+
+production:
+  <<: *default
+  database: MailApp_production
+  username: MailApp
+  password: <%= ENV['MAILAPP_DATABASE_PASSWORD'] %>
